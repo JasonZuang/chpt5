@@ -6,6 +6,7 @@ header{
 	border-bottom: 1px soilid #999;
 	margin-bottom: 2rem;
 	display: flex;
+	border-bottom: 5px solid;
 }
 header h1 a{
 	color: pink;
